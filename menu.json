@@ -1,0 +1,852 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "name": "Butter Chicken",
+            "category": "Main Course",
+            "veg": false,
+            "price": 56.7,
+            "rating": [
+                4.1
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Paneer Butter Masala",
+            "category": "Main Course",
+            "veg": true,
+            "price": 41.7,
+            "rating": [
+                4.1
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Chicken Curry",
+            "category": "Main Course",
+            "veg": false,
+            "price": 129.0,
+            "rating": [
+                4.5
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Kadai Paneer",
+            "category": "Main Course",
+            "veg": true,
+            "price": 128.4,
+            "rating": [
+                4.7
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Palak Paneer",
+            "category": "Main Course",
+            "veg": true,
+            "price": 97.4,
+            "rating": [
+                4.6
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Mutton Rogan Josh",
+            "category": "Main Course",
+            "veg": false,
+            "price": 122.5,
+            "rating": [
+                4.5
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Dal Makhani",
+            "category": "Main Course",
+            "veg": true,
+            "price": 122.8,
+            "rating": [
+                3.7
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Chana Masala",
+            "category": "Main Course",
+            "veg": true,
+            "price": 214.8,
+            "rating": [
+                4.6
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Egg Curry",
+            "category": "Main Course",
+            "veg": false,
+            "price": 20.9,
+            "rating": [
+                3.5
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Shahi Paneer",
+            "category": "Main Course",
+            "veg": true,
+            "price": 171.3,
+            "rating": [
+                4.3
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Rajma Masala",
+            "category": "Main Course",
+            "veg": true,
+            "price": 226.1,
+            "rating": [
+                4.9
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Aloo Gobi",
+            "category": "Main Course",
+            "veg": true,
+            "price": 120.6,
+            "rating": [
+                4.4
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Bhindi Masala",
+            "category": "Main Course",
+            "veg": true,
+            "price": 274.1,
+            "rating": [
+                4.3
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Chicken Korma",
+            "category": "Main Course",
+            "veg": false,
+            "price": 86.0,
+            "rating": [
+                4.8
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Malai Kofta",
+            "category": "Main Course",
+            "veg": true,
+            "price": 114.4,
+            "rating": [
+                3.9
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Baingan Bharta",
+            "category": "Main Course",
+            "veg": true,
+            "price": 22.0,
+            "rating": [
+                4.1
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Fish Curry",
+            "category": "Main Course",
+            "veg": false,
+            "price": 102.3,
+            "rating": [
+                4.5
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Mix Veg",
+            "category": "Main Course",
+            "veg": true,
+            "price": 80.2,
+            "rating": [
+                5.0
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Paneer Do Pyaza",
+            "category": "Main Course",
+            "veg": true,
+            "price": 277.4,
+            "rating": [
+                4.4
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Methi Malai Murg",
+            "category": "Main Course",
+            "veg": false,
+            "price": 103.7,
+            "rating": [
+                4.4
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Tandoori Roti",
+            "category": "Roti",
+            "veg": true,
+            "price": 257.0,
+            "rating": [
+                4.4
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Butter Naan",
+            "category": "Roti",
+            "veg": true,
+            "price": 258.0,
+            "rating": [
+                4.6
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Plain Naan",
+            "category": "Roti",
+            "veg": true,
+            "price": 142.0,
+            "rating": [
+                3.9
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Missi Roti",
+            "category": "Roti",
+            "veg": true,
+            "price": 50.7,
+            "rating": [
+                4.0
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Lachha Paratha",
+            "category": "Roti",
+            "veg": true,
+            "price": 145.0,
+            "rating": [
+                4.9
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Stuffed Naan",
+            "category": "Roti",
+            "veg": true,
+            "price": 104.2,
+            "rating": [
+                4.1
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Garlic Naan",
+            "category": "Roti",
+            "veg": true,
+            "price": 133.7,
+            "rating": [
+                4.3
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Roomali Roti",
+            "category": "Roti",
+            "veg": true,
+            "price": 48.7,
+            "rating": [
+                3.6
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Kulcha",
+            "category": "Roti",
+            "veg": true,
+            "price": 28.0,
+            "rating": [
+                3.5
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Chapati",
+            "category": "Roti",
+            "veg": true,
+            "price": 20.1,
+            "rating": [
+                3.7
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Masala Chai",
+            "category": "Baverage",
+            "veg": true,
+            "price": 220.2,
+            "rating": [
+                4.6
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Filter Coffee",
+            "category": "Baverage",
+            "veg": true,
+            "price": 268.3,
+            "rating": [
+                4.0
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Sweet Lassi",
+            "category": "Baverage",
+            "veg": true,
+            "price": 167.1,
+            "rating": [
+                4.1
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Salted Lassi",
+            "category": "Baverage",
+            "veg": true,
+            "price": 35.2,
+            "rating": [
+                4.7
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Cold Coffee",
+            "category": "Baverage",
+            "veg": true,
+            "price": 235.9,
+            "rating": [
+                4.3
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Fresh Lime Soda",
+            "category": "Baverage",
+            "veg": true,
+            "price": 136.0,
+            "rating": [
+                3.8
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Mineral Water",
+            "category": "Baverage",
+            "veg": true,
+            "price": 217.8,
+            "rating": [
+                4.7
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Soft Drink",
+            "category": "Baverage",
+            "veg": true,
+            "price": 52.4,
+            "rating": [
+                4.1
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Badam Milk",
+            "category": "Baverage",
+            "veg": true,
+            "price": 231.7,
+            "rating": [
+                4.1
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Jaljeera",
+            "category": "Baverage",
+            "veg": true,
+            "price": 246.2,
+            "rating": [
+                3.5
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Gulab Jamun",
+            "category": "Dessert",
+            "veg": true,
+            "price": 177.3,
+            "rating": [
+                5.0
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Rasgulla",
+            "category": "Dessert",
+            "veg": true,
+            "price": 155.6,
+            "rating": [
+                3.9
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Kheer",
+            "category": "Dessert",
+            "veg": true,
+            "price": 42.1,
+            "rating": [
+                4.7
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Rasmalai",
+            "category": "Dessert",
+            "veg": true,
+            "price": 68.0,
+            "rating": [
+                4.8
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Jalebi",
+            "category": "Dessert",
+            "veg": true,
+            "price": 150.1,
+            "rating": [
+                4.3
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Gajar ka Halwa",
+            "category": "Dessert",
+            "veg": true,
+            "price": 35.6,
+            "rating": [
+                3.6
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Moong Dal Halwa",
+            "category": "Dessert",
+            "veg": true,
+            "price": 57.6,
+            "rating": [
+                4.4
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Ice Cream (Vanilla)",
+            "category": "Dessert",
+            "veg": true,
+            "price": 167.0,
+            "rating": [
+                3.6
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Malpua",
+            "category": "Dessert",
+            "veg": true,
+            "price": 212.3,
+            "rating": [
+                4.1
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Phirni",
+            "category": "Dessert",
+            "veg": true,
+            "price": 222.8,
+            "rating": [
+                4.5
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Paneer Tikka",
+            "category": "Starter",
+            "veg": true,
+            "price": 78.5,
+            "rating": [
+                3.8
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Hara Bhara Kabab",
+            "category": "Starter",
+            "veg": true,
+            "price": 106.8,
+            "rating": [
+                3.8
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Veg Manchurian Dry",
+            "category": "Starter",
+            "veg": true,
+            "price": 130.3,
+            "rating": [
+                3.6
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Samosa (2 pcs)",
+            "category": "Starter",
+            "veg": true,
+            "price": 77.6,
+            "rating": [
+                4.0
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Spring Roll",
+            "category": "Starter",
+            "veg": true,
+            "price": 231.3,
+            "rating": [
+                4.6
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Chicken Tikka",
+            "category": "Starter",
+            "veg": false,
+            "price": 247.4,
+            "rating": [
+                4.9
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Tandoori Chicken (Half)",
+            "category": "Starter",
+            "veg": false,
+            "price": 75.0,
+            "rating": [
+                4.1
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Fish Fry",
+            "category": "Starter",
+            "veg": false,
+            "price": 107.3,
+            "rating": [
+                3.5
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Chicken Lollipop",
+            "category": "Starter",
+            "veg": false,
+            "price": 50.8,
+            "rating": [
+                4.5
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Veg Pakora",
+            "category": "Starter",
+            "veg": true,
+            "price": 208.2,
+            "rating": [
+                4.7
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Plain Rice",
+            "category": "Rice",
+            "veg": true,
+            "price": 170.2,
+            "rating": [
+                3.7
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Jeera Rice",
+            "category": "Rice",
+            "veg": true,
+            "price": 174.4,
+            "rating": [
+                3.6
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Veg Pulao",
+            "category": "Rice",
+            "veg": true,
+            "price": 49.9,
+            "rating": [
+                4.9
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Peas Pulao",
+            "category": "Rice",
+            "veg": true,
+            "price": 146.7,
+            "rating": [
+                4.6
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Curd Rice",
+            "category": "Rice",
+            "veg": true,
+            "price": 75.5,
+            "rating": [
+                4.4
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Lemon Rice",
+            "category": "Rice",
+            "veg": true,
+            "price": 168.2,
+            "rating": [
+                4.2
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Veg Biryani",
+            "category": "Rice",
+            "veg": true,
+            "price": 147.5,
+            "rating": [
+                4.4
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Chicken Biryani",
+            "category": "Rice",
+            "veg": false,
+            "price": 101.3,
+            "rating": [
+                4.2
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Egg Biryani",
+            "category": "Rice",
+            "veg": false,
+            "price": 94.7,
+            "rating": [
+                5.0
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Mutton Biryani",
+            "category": "Rice",
+            "veg": false,
+            "price": 111.5,
+            "rating": [
+                4.3
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Veg Hakka Noodles",
+            "category": "Chinese",
+            "veg": true,
+            "price": 51.3,
+            "rating": [
+                3.7
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Chicken Hakka Noodles",
+            "category": "Chinese",
+            "veg": false,
+            "price": 120.6,
+            "rating": [
+                4.6
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Veg Fried Rice",
+            "category": "Chinese",
+            "veg": true,
+            "price": 251.0,
+            "rating": [
+                3.6
+            ]
+        },
+        {
+            "id": 74,
+            "name": "Egg Fried Rice",
+            "category": "Chinese",
+            "veg": false,
+            "price": 235.5,
+            "rating": [
+                4.6
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Chicken Fried Rice",
+            "category": "Chinese",
+            "veg": false,
+            "price": 85.2,
+            "rating": [
+                4.7
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Veg Manchurian (Gravy)",
+            "category": "Chinese",
+            "veg": true,
+            "price": 194.3,
+            "rating": [
+                3.5
+            ]
+        },
+        {
+            "id": 77,
+            "name": "Chicken Manchurian",
+            "category": "Chinese",
+            "veg": false,
+            "price": 224.3,
+            "rating": [
+                4.2
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Chilli Paneer",
+            "category": "Chinese",
+            "veg": true,
+            "price": 139.7,
+            "rating": [
+                5.0
+            ]
+        },
+        {
+            "id": 79,
+            "name": "Chilli Chicken",
+            "category": "Chinese",
+            "veg": false,
+            "price": 216.8,
+            "rating": [
+                3.7
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Schezwan Noodles",
+            "category": "Chinese",
+            "veg": true,
+            "price": 214.8,
+            "rating": [
+                4.1
+            ]
+        },
+        {
+            "id": 81,
+            "name": "chiness",
+            "price": 25.0,
+            "veg": true
+        },
+        {
+            "id": 82,
+            "name": "ladu",
+            "price": 52.0,
+            "category": "desserts",
+            "veg": true
+        },
+        {
+            "id": 83,
+            "name": "faluda",
+            "price": 85.0,
+            "category": "desserts",
+            "veg": true
+        },
+        {
+            "id": 84,
+            "name": "chiken martuga",
+            "price": 900.0,
+            "category": "main_course",
+            "veg": false
+        },
+        {
+            "id": 85,
+            "name": "murga musalam",
+            "price": 850.0,
+            "category": "main_course",
+            "veg": false
+        },
+        {
+            "id": 86,
+            "name": "pithla bhakri",
+            "price": 500.0,
+            "category": "main_course",
+            "veg": true
+        },
+        {
+            "id": 87,
+            "name": "dal bhat",
+            "price": 300.0,
+            "category": "rice",
+            "veg": true
+        }
+    ]
+}
