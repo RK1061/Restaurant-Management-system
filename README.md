@@ -15,6 +15,14 @@ This is a simple Python-based Restaurant Management System that allows users to 
 - **Reviews**: Option to leave reviews for the dishes (planned future feature).
 
 ---
+Restaurant-Management-System/
+├── restaurant_management.py  # Main script to run the program
+├── menu.json                 # JSON file containing menu data (id, name, price, category, etc.)
+└── README.md                 # This file (documentation)
+
+
+![image](https://github.com/user-attachments/assets/a71bd4ce-b465-4807-897c-1e9dc23aac28)
+
 
 ## How to Run
 
